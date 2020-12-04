@@ -2,7 +2,7 @@
     "palette": "orange",
     "header": {
         "logo_img": "images/app_icon.png",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
